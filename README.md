@@ -1,6 +1,6 @@
 # My favourite Front-End resources
 
-> Just a collection of chosen blogs, articles and sort on front-end topics and not only
+> Just a collection of chosen blogs, articles and sort on front-end topics and not only  
 > No logical order applied (maybe later)
 
 ## Front-end
@@ -65,5 +65,5 @@
 
 
 ---
-more to come!
+more to come!  
 stay tuned
