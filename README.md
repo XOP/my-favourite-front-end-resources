@@ -34,6 +34,7 @@
 - [Sidebar IO](http://sidebar.io/)
 - [Harry Roberts blog](http://csswizardry.com/)
 - [Hey Designer](http://heydesigner.com/)
+- [PonyFoo - Nicolas Bevacqua blog](http://ponyfoo.com/)
 
 
 ### Twitter
