@@ -7,15 +7,11 @@
 
 - [Standardista - Estelle Weyl blog](http://www.standardista.com/)
 - [Web updates (ex-HTML5 rocks)](https://developers.google.com/web/updates/)
-- [Filament Group](https://www.filamentgroup.com/lab/)
 - [John Resig blog](http://ejohn.org/category/blog/)
 - [Front-End notes - Vladimir Kuznetsov blog [RU]](http://noteskeeper.ru/)
 - [ES6 and more - Axel Rauschmayer blog](http://www.2ality.com/)
 - [Frontender [RU]](http://frontender.info/)
-- [Vadym Makeev blog](http://pepelsbey.net/)
 - [CSS Live [RU]](http://css-live.ru/)
-- [Telerik company blog](http://www.telerik.com/blogs)
-- [Booking.com dev blog](http://blog.booking.com/)
 - [Jonathan Snook blog](http://snook.ca/)
 - [Nicolas Gallagher blog](http://nicolasgallagher.com/)
 - [Smashing magazine](http://www.smashingmagazine.com/)
@@ -41,6 +37,15 @@
 
 - [Web Standards [RU]](https://twitter.com/webstandards_ru)
 - [Chrome dev tools](https://twitter.com/ChromeDevTools)
+
+
+## Company dev blogs
+
+- [Guardian](https://www.theguardian.com/info/developer-blog)
+- [Netflix](http://techblog.netflix.com/)
+- [Telerik](http://www.telerik.com/blogs)
+- [Booking.com](http://blog.booking.com/)
+- [Filament Group](https://www.filamentgroup.com/lab/)
 
 
 ## Styleguides and whatnot
