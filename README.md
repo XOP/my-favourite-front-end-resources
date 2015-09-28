@@ -3,7 +3,7 @@
 > Just a collection of chosen blogs, articles and sort on front-end topics and not only  
 > No logical order applied (maybe later)
 
-## Periodicals, magazines and resources
+## Periodicals, magazines and more
 
 - [Web updates (ex-HTML5 rocks)](https://developers.google.com/web/updates/)
 - [Frontender [RU]](http://frontender.info/)
