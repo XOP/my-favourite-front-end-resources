@@ -3,17 +3,11 @@
 > Just a collection of chosen blogs, articles and sort on front-end topics and not only  
 > No logical order applied (maybe later)
 
-## Front-end
+## Periodicals, magazines and resources
 
-- [Standardista - Estelle Weyl blog](http://www.standardista.com/)
 - [Web updates (ex-HTML5 rocks)](https://developers.google.com/web/updates/)
-- [John Resig blog](http://ejohn.org/category/blog/)
-- [Front-End notes - Vladimir Kuznetsov blog [RU]](http://noteskeeper.ru/)
-- [ES6 and more - Axel Rauschmayer blog](http://www.2ality.com/)
 - [Frontender [RU]](http://frontender.info/)
 - [CSS Live [RU]](http://css-live.ru/)
-- [Jonathan Snook blog](http://snook.ca/)
-- [Nicolas Gallagher blog](http://nicolasgallagher.com/)
 - [Smashing magazine](http://www.smashingmagazine.com/)
 - [CSS tricks](http://css-tricks.com/)
 - [Web Standards [RU]](http://web-standards.ru/)
@@ -22,18 +16,30 @@
 - [David Walsh and friends](http://davidwalsh.name/)
 - [Sitepoint depot](http://www.sitepoint.com/)
 - [HTML5 articles and stuff [RU]](http://html5.by/)
-- [Steve Souders blog](http://www.stevesouders.com/blog/)
-- [Ben Frain blog](http://benfrain.com/blog/)
-- [Nicole Sullivan blog](http://www.stubbornella.org/content/)
 - [A List Apart](http://alistapart.com/articles)
 - [HTML5 bookmarks](http://html5bookmarks.com/)
 - [Sidebar IO](http://sidebar.io/)
-- [Harry Roberts blog](http://csswizardry.com/)
 - [Hey Designer](http://heydesigner.com/)
-- [PonyFoo - Nicolas Bevacqua blog](http://ponyfoo.com/)
 
 
-### Twitter
+## Blogs
+
+- [Aerotwist by Paul Lewis](https://aerotwist.com/)
+- [Paul Irish](http://www.paulirish.com/)
+- [CSS wizardy by Harry Roberts](http://csswizardry.com/)
+- [PonyFoo by Nicolas Bevacqua](http://ponyfoo.com/)
+- [Nicole Sullivan](http://www.stubbornella.org/content/)
+- [Jonathan Snook](http://snook.ca/)
+- [Nicolas Gallagher](http://nicolasgallagher.com/)
+- [John Resig](http://ejohn.org/category/blog/)
+- [Front-End notes by Vladimir Kuznetsov [RU]](http://noteskeeper.ru/)
+- [ES6 and more by Axel Rauschmayer](http://www.2ality.com/)
+- [Standardista - Estelle Weyl](http://www.standardista.com/)
+- [Steve Souders](http://www.stevesouders.com/blog/)
+- [Ben Frain](http://benfrain.com/blog/)
+
+
+## Twitter
 
 - [Web Standards [RU]](https://twitter.com/webstandards_ru)
 - [Chrome dev tools](https://twitter.com/ChromeDevTools)
