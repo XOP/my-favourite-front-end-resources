@@ -76,6 +76,11 @@
 - [A Good UI](http://goodui.org/)
 
 
+## All others
+
+- [Salesforce UX on Medium](https://medium.com/salesforce-ux)
+
+
 ---
 more to come!  
 stay tuned
