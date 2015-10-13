@@ -39,6 +39,7 @@
 - [Ben Frain](http://benfrain.com/blog/)
 - [Nolan Lawson](http://nolanlawson.com/)
 - [Bruce Lawson](http://www.brucelawson.co.uk/)
+- [Reactive apps](http://blog.reactandbethankful.com/)
 
 
 ## Twitter
