@@ -40,6 +40,7 @@
 - [Nolan Lawson](http://nolanlawson.com/)
 - [Bruce Lawson](http://www.brucelawson.co.uk/)
 - [Reactive apps](http://blog.reactandbethankful.com/)
+- [Addy Osmani](http://addyosmani.com/blog/)
 
 
 ## Twitter
