@@ -42,6 +42,7 @@
 - [Reactive apps](http://blog.reactandbethankful.com/)
 - [Addy Osmani](http://addyosmani.com/blog/)
 - [Brent Jackson](http://jxnblk.com/)
+- [Front-End Development and Architecture by Hans Christian Reinl](https://drublic.de/blog)
 
 
 ## Twitter
