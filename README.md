@@ -44,6 +44,7 @@
 - [Addy Osmani](http://addyosmani.com/blog/)
 - [Brent Jackson](http://jxnblk.com/)
 - [Front-End Development and Architecture by Hans Christian Reinl](https://drublic.de/blog)
+- [You don't know JS by Kyle Simpson](http://blog.getify.com/)
 
 
 ## Twitter
