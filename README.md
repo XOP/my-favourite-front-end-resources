@@ -61,6 +61,7 @@
 - [Booking.com](http://blog.booking.com/)
 - [Filament Group](https://www.filamentgroup.com/lab/)
 - [AirBnB](http://nerds.airbnb.com/)
+- [StrongLoop](https://strongloop.com/strongblog/)
 
 
 ## Styleguides and whatnot
