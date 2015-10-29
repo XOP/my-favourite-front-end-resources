@@ -55,7 +55,7 @@
 
 ## Medium
 
-- [Salesforce UX on Medium](https://medium.com/salesforce-ux)
+- [Salesforce UX](https://medium.com/salesforce-ux)
 - [Google Developers](https://medium.com/google-developers)
 
 
