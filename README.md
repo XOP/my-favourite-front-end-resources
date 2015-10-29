@@ -53,6 +53,12 @@
 - [Chrome dev tools](https://twitter.com/ChromeDevTools)
 
 
+## Medium
+
+- [Salesforce UX on Medium](https://medium.com/salesforce-ux)
+- [Google Developers](https://medium.com/google-developers)
+
+
 ## Company dev blogs
 
 - [Guardian](https://www.theguardian.com/info/developer-blog)
@@ -84,11 +90,6 @@
 - [Yury Vetrov blog](http://www.jvetrau.com/)
 - [Baymard Institute](http://baymard.com/)
 - [A Good UI](http://goodui.org/)
-
-
-## All others
-
-- [Salesforce UX on Medium](https://medium.com/salesforce-ux)
 
 
 ---
