@@ -21,6 +21,7 @@
 - [Sidebar IO](http://sidebar.io/)
 - [Hey Designer](http://heydesigner.com/)
 - [Code Visually](http://codevisually.com/)
+- [Progressor [RU]](http://prgssr.ru/)
 
 
 ## Blogs
