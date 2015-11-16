@@ -48,6 +48,7 @@
 - [You don't know JS by Kyle Simpson](http://blog.getify.com/)
 - [The new code by Dudley Storey](http://thenewcode.com/)
 - [Christian Heilmann](https://www.christianheilmann.com/)
+- [Una Kravets](http://una.im/)
 
 
 ## Twitter
