@@ -72,6 +72,7 @@
 - [Filament Group](https://www.filamentgroup.com/lab/)
 - [AirBnB](http://nerds.airbnb.com/)
 - [StrongLoop](https://strongloop.com/strongblog/)
+- [Viget](https://viget.com/extend)
 
 
 ## Styleguides and whatnot
