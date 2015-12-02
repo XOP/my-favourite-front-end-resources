@@ -6,11 +6,8 @@
 ## Periodicals, magazines and more
 
 - [Web updates (ex-HTML5 rocks)](https://developers.google.com/web/updates/)
-- [Frontender [RU]](http://frontender.info/)
-- [CSS Live [RU]](http://css-live.ru/)
 - [Smashing magazine](http://www.smashingmagazine.com/)
 - [CSS tricks](http://css-tricks.com/)
-- [Web Standards [RU]](http://web-standards.ru/)
 - [Polymer project](https://elements.polymer-project.org/)
 - [Ubuntu design](http://design.canonical.com/)
 - [David Walsh and friends](http://davidwalsh.name/)
@@ -21,7 +18,15 @@
 - [Sidebar IO](http://sidebar.io/)
 - [Hey Designer](http://heydesigner.com/)
 - [Code Visually](http://codevisually.com/)
-- [Progressor [RU]](http://prgssr.ru/)
+
+### RU-zone
+
+- [Habrahabr](http://habrahabr.ru/)
+- [Frontender](http://frontender.info/)
+- [CSS Live](http://css-live.ru/)
+- [Progressor](http://prgssr.ru/)
+- [Web Standards](http://web-standards.ru/)
+- [Hacker magazine](https://xakep.ru/issues/)
 
 
 ## Blogs
