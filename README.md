@@ -12,7 +12,6 @@
 - [Ubuntu design](http://design.canonical.com/)
 - [David Walsh and friends](http://davidwalsh.name/)
 - [Sitepoint depot](http://www.sitepoint.com/)
-- [HTML5 articles and stuff [RU]](http://html5.by/)
 - [A List Apart](http://alistapart.com/articles)
 - [HTML5 bookmarks](http://html5bookmarks.com/)
 - [Sidebar IO](http://sidebar.io/)
@@ -27,6 +26,7 @@
 - [Progressor](http://prgssr.ru/)
 - [Web Standards](http://web-standards.ru/)
 - [Hacker magazine](https://xakep.ru/issues/)
+- [HTML5 articles and stuff](http://html5.by/)
 
 
 ## Blogs
