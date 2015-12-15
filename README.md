@@ -55,7 +55,10 @@
 - [Christian Heilmann](https://www.christianheilmann.com/)
 - [Una Kravets](http://una.im/)
 - [Cory House](http://www.bitnative.com/)
-
+- [Wes Bos](http://wesbos.com/)
+- [Pam "thewebivore"](http://thewebivore.com/)
+- [Mathias Bynens](https://mathiasbynens.be/)
+- [Elijah Manor](http://elijahmanor.com/)
 
 ## Twitter
 
