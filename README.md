@@ -31,6 +31,8 @@
 
 ## Blogs
 
+### Stars
+
 - [Aerotwist by Paul Lewis](https://aerotwist.com/)
 - [Paul Irish](http://www.paulirish.com/)
 - [CSS wizardy by Harry Roberts](http://csswizardry.com/)
@@ -39,26 +41,30 @@
 - [Jonathan Snook](http://snook.ca/)
 - [Nicolas Gallagher](http://nicolasgallagher.com/)
 - [John Resig](http://ejohn.org/category/blog/)
-- [Front-End notes by Vladimir Kuznetsov [RU]](http://noteskeeper.ru/)
 - [ES6 and more by Axel Rauschmayer](http://www.2ality.com/)
-- [Standardista - Estelle Weyl](http://www.standardista.com/)
 - [Steve Souders](http://www.stevesouders.com/blog/)
 - [Ben Frain](http://benfrain.com/blog/)
-- [Nolan Lawson](http://nolanlawson.com/)
 - [Bruce Lawson](http://www.brucelawson.co.uk/)
-- [Reactive apps](http://blog.reactandbethankful.com/)
 - [Addy Osmani](http://addyosmani.com/blog/)
+- [You don't know JS by Kyle Simpson](http://blog.getify.com/)
+- [Christian Heilmann](https://www.christianheilmann.com/)
+- [Wes Bos](http://wesbos.com/)
+- [Standardista - Estelle Weyl](http://www.standardista.com/)
+
+### Starlets
+
+- [Front-End notes by Vladimir Kuznetsov [RU]](http://noteskeeper.ru/)
+- [Nolan Lawson](http://nolanlawson.com/)
+- [Reactive apps](http://blog.reactandbethankful.com/)
 - [Brent Jackson](http://jxnblk.com/)
 - [Front-End Development and Architecture by Hans Christian Reinl](https://drublic.de/blog)
-- [You don't know JS by Kyle Simpson](http://blog.getify.com/)
 - [The new code by Dudley Storey](http://thenewcode.com/)
-- [Christian Heilmann](https://www.christianheilmann.com/)
 - [Una Kravets](http://una.im/)
 - [Cory House](http://www.bitnative.com/)
-- [Wes Bos](http://wesbos.com/)
 - [Pam "thewebivore"](http://thewebivore.com/)
 - [Mathias Bynens](https://mathiasbynens.be/)
 - [Elijah Manor](http://elijahmanor.com/)
+- [Reginald Braithwaite](http://raganwald.com/)
 
 ## Twitter
 
