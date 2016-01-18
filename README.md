@@ -111,6 +111,7 @@
 - [Yury Vetrov blog](http://www.jvetrau.com/)
 - [Baymard Institute](http://baymard.com/)
 - [A Good UI](http://goodui.org/)
+- [Usabilla blog](http://blog.usabilla.com/)
 
 
 ------
