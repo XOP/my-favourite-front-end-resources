@@ -26,7 +26,7 @@
 - [Progressor](http://prgssr.ru/)
 - [Web Standards](http://web-standards.ru/)
 - [Hacker magazine](https://xakep.ru/issues/)
-- :skull: [HTML5 articles and stuff](http://html5.by/)
+- :clock8: [HTML5 articles and stuff](http://html5.by/)
 
 
 ## Blogs
@@ -37,7 +37,7 @@
 - [Paul Irish](http://www.paulirish.com/)
 - [CSS wizardy by Harry Roberts](http://csswizardry.com/)
 - [PonyFoo by Nicolas Bevacqua](http://ponyfoo.com/)
-- :skull: [Nicole Sullivan](http://www.stubbornella.org/content/)
+- :clock8: [Nicole Sullivan](http://www.stubbornella.org/content/)
 - [Jonathan Snook](http://snook.ca/)
 - [Nicolas Gallagher](http://nicolasgallagher.com/)
 - [John Resig](http://ejohn.org/category/blog/)
@@ -113,6 +113,9 @@
 - [A Good UI](http://goodui.org/)
 - [Usabilla blog](http://blog.usabilla.com/)
 
+
+------
+:clock8: - outdated site
 
 ------
 more to come!  
