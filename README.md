@@ -26,7 +26,7 @@
 - [Progressor](http://prgssr.ru/)
 - [Web Standards](http://web-standards.ru/)
 - [Hacker magazine](https://xakep.ru/issues/)
-- [HTML5 articles and stuff](http://html5.by/)
+- :skull: [HTML5 articles and stuff](http://html5.by/)
 
 
 ## Blogs
@@ -37,7 +37,7 @@
 - [Paul Irish](http://www.paulirish.com/)
 - [CSS wizardy by Harry Roberts](http://csswizardry.com/)
 - [PonyFoo by Nicolas Bevacqua](http://ponyfoo.com/)
-- [Nicole Sullivan](http://www.stubbornella.org/content/)
+- :skull: [Nicole Sullivan](http://www.stubbornella.org/content/)
 - [Jonathan Snook](http://snook.ca/)
 - [Nicolas Gallagher](http://nicolasgallagher.com/)
 - [John Resig](http://ejohn.org/category/blog/)
