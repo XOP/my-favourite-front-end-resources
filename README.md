@@ -50,6 +50,7 @@
 - [Christian Heilmann](https://www.christianheilmann.com/)
 - [Wes Bos](http://wesbos.com/)
 - [Standardista - Estelle Weyl](http://www.standardista.com/)
+- [Mark Dotto](http://markdotto.com/)
 
 ### Starlets
 
