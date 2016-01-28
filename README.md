@@ -66,6 +66,8 @@
 - [Mathias Bynens](https://mathiasbynens.be/)
 - [Elijah Manor](http://elijahmanor.com/)
 - [Reginald Braithwaite](http://raganwald.com/)
+- [Dean Hume](http://deanhume.com/Home/Index)
+
 
 ## Twitter
 
