@@ -17,6 +17,7 @@
 - [Sidebar IO](http://sidebar.io/)
 - [Hey Designer](http://heydesigner.com/)
 - [Code Visually](http://codevisually.com/)
+- :link: [Performance calendar](http://calendar.perfplanet.com/2015/)
 
 ### RU-zone
 
@@ -119,6 +120,7 @@
 
 ------
 :clock8: - outdated site
+:link: - link might be incorrect
 
 ------
 more to come!  
