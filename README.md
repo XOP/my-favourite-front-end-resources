@@ -93,6 +93,7 @@
 - [StrongLoop](https://strongloop.com/strongblog/)
 - [Viget](https://viget.com/extend)
 - [Perfomance beacon by Soasta](http://www.soasta.com/blog/)
+- [Edenspiekermann](http://dev.edenspiekermann.com/)
 
 
 ## Styleguides and whatnot
