@@ -28,6 +28,7 @@
 - [Web Standards](http://web-standards.ru/)
 - [Hacker magazine](https://xakep.ru/issues/)
 - :clock8: [HTML5 articles and stuff](http://html5.by/)
+- [Evil Martians](https://evilmartians.com/chronicles)
 
 
 ## Blogs
