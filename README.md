@@ -1,7 +1,6 @@
-# My favourite Front-End resources
+# Front-End-Dev and UI resources
 
-> Just a collection of chosen blogs, articles and sort on front-end topics and not only  
-> No logical order applied (maybe later)
+Collection of chosen blogs, articles, tutorials on design and development topics.
 
 ## Periodicals, magazines and more
 
