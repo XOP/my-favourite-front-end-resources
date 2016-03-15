@@ -127,5 +127,5 @@
 :link: - link might be incorrect
 
 ------
-more to come!  
-stay tuned
+miss your resource?
+welcome to [issues](https://github.com/XOP/my-favourite-front-end-resources/issues)!
