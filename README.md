@@ -52,6 +52,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Wes Bos](http://wesbos.com/)
 - [Standardista - Estelle Weyl](http://www.standardista.com/)
 - [Mark Dotto](http://markdotto.com/)
+- [Hugo Giraudel](http://hugogiraudel.com/blog/)
 
 ### Starlets
 
