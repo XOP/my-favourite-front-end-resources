@@ -69,7 +69,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Elijah Manor](http://elijahmanor.com/)
 - [Reginald Braithwaite](http://raganwald.com/)
 - [Dean Hume](http://deanhume.com/Home/Index)
-
+- [Dev Nacho](http://devnacho.com/)
 
 ## Twitter
 
