@@ -97,6 +97,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Edenspiekermann](http://dev.edenspiekermann.com/)
 - [Bigcommerce](http://www.bigeng.io/)
 - [Trello](http://tech.trello.com/)
+- [Viget](https://www.viget.com/articles/)
 
 
 ## Styleguides and whatnot
