@@ -92,7 +92,6 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Filament Group](https://www.filamentgroup.com/lab/)
 - [AirBnB](http://nerds.airbnb.com/code/)
 - [StrongLoop](https://strongloop.com/strongblog/)
-- [Viget](https://viget.com/extend)
 - [Perfomance beacon by Soasta](http://www.soasta.com/blog/)
 - [Edenspiekermann](http://dev.edenspiekermann.com/)
 - [Bigcommerce](http://www.bigeng.io/)
