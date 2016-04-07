@@ -97,6 +97,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Bigcommerce](http://www.bigeng.io/)
 - [Trello](http://tech.trello.com/)
 - [Viget](https://www.viget.com/articles/)
+- [Scott Logic](http://blog.scottlogic.com/index.html)
 
 
 ## Styleguides and whatnot
