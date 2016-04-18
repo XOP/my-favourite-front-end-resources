@@ -70,6 +70,8 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Reginald Braithwaite](http://raganwald.com/)
 - [Dean Hume](http://deanhume.com/Home/Index)
 - [Dev Nacho](http://devnacho.com/)
+- [Bram Stein](https://www.bramstein.com/writing/)
+
 
 ## Twitter
 
