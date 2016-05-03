@@ -123,6 +123,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Baymard Institute](http://baymard.com/)
 - [A Good UI](http://goodui.org/)
 - [Usabilla blog](http://blog.usabilla.com/)
+- [Nick Kolenda blog](http://www.nickkolenda.com/)
 
 
 ------
