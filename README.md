@@ -2,6 +2,8 @@
 
 Collection of chosen blogs, articles, tutorials on design and development topics.
 
+> http://xop.github.io/my-favourite-front-end-resources
+
 ## Periodicals, magazines and more
 
 - [Web updates (ex-HTML5 rocks)](https://developers.google.com/web/updates/)
