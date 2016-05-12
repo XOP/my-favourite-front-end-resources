@@ -73,6 +73,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Dean Hume](http://deanhume.com/Home/Index)
 - [Dev Nacho](http://devnacho.com/)
 - [Bram Stein](https://www.bramstein.com/writing/)
+- [Cristiano Rastelli](http://www.didoo.net/)
 
 
 ## Twitter
