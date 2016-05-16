@@ -74,6 +74,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Dev Nacho](http://devnacho.com/)
 - [Bram Stein](https://www.bramstein.com/writing/)
 - [Cristiano Rastelli](http://www.didoo.net/)
+- [Andrew H Farmer](http://andrewhfarmer.com/)
 
 
 ## Twitter
