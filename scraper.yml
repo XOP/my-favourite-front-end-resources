@@ -1,0 +1,7 @@
+- url: 'https://davidwalsh.name/'
+  link: '#main > ul > li.vert + li > div.preview > h2 > a'
+  title: ''
+
+- url: 'https://css-tricks.com/'
+  link: 'article.article-card:first-child > h2 > a'
+  title: ''
