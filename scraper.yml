@@ -7,22 +7,26 @@
 'Smashing magazine':
   url: 'http://www.smashingmagazine.com/'
   elem: '#content > article.post > h2 > a'
+  limit: 6
 
 'CSS tricks':
   url: 'http://css-tricks.com/'
   elem: '#page-wrap .main-col .article-card > h2 > a.read-article'
+  limit: 6
 
 'Ubuntu design':
   url: 'http://design.canonical.com/'
-  elem: '#articles > .block-click > article > h2 > a'
+  elem: '#articles .block-click > article h2 > a'
 
 'David Walsh and friends':
   url: 'http://davidwalsh.name/'
   elem: '#main > ul > li > .preview > h2 > a'
+  limit: 4
 
 'Sitepoint depot':
   url: 'https://www.sitepoint.com/'
   elem: 'main article.article h1 > a'
+  limit: 10
 
 'A List Apart':
   url: 'http://alistapart.com/articles'
@@ -31,10 +35,12 @@
 'HTML5 bookmarks':
   url: 'http://html5bookmarks.com/'
   elem: '#article .articlestable td.articlerow > a'
+  limit: 10
 
 'Hey Designer':
   url: 'http://heydesigner.com/'
   elem: '.main .articles article > h3 > a'
+  limit: 8
 
 'Code Visually':
   url: 'http://codevisually.com/'
