@@ -1,4 +1,6 @@
+# ================================================================================
 # Periodicals and magazines
+# ================================================================================
 
 'Web updates (ex-HTML5 rocks)':
   url: 'https://developers.google.com/web/updates/'
@@ -26,11 +28,12 @@
 'Sitepoint depot':
   url: 'https://www.sitepoint.com/'
   elem: 'main article.article h1 > a'
-  limit: 10
+  limit: 15
 
 'A List Apart':
   url: 'http://alistapart.com/articles'
   elem: '.main-wrapper .main-content .entry-list li > h3 > a'
+  limit: 5
 
 'HTML5 bookmarks':
   url: 'http://html5bookmarks.com/'
@@ -40,8 +43,36 @@
 'Hey Designer':
   url: 'http://heydesigner.com/'
   elem: '.main .articles article > h3 > a'
-  limit: 8
+  limit: 10
 
 'Code Visually':
   url: 'http://codevisually.com/'
   elem: '#boxes .post > h2 > a'
+
+# ================================================================================
+# Blogs
+# ================================================================================
+
+'Paul Lewis':
+  url: 'https://aerotwist.com/blog/'
+  elem: '.content .posts li a'
+  limit: 2
+
+'Harry Roberts':
+  url: 'http://csswizardry.com/'
+  elem: '.list-ui.post__list h3.post__title > a'
+  limit: 2
+
+'Nicolas Bevacqua':
+  url: 'http://ponyfoo.com/'
+  elem: '.aa-articles h2.aa-title > a'
+
+'Jonathan Snook':
+  url: 'http://snook.ca/'
+  elem: '#main .article h2 > a'
+  limit: 2
+
+'John Resig':
+  url: 'http://ejohn.org/category/blog/'
+  elem: '#body .post h3 a'
+  limit: 1

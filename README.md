@@ -37,12 +37,12 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 ### Stars
 
 - [Aerotwist by Paul Lewis](https://aerotwist.com/)
-- [Paul Irish](http://www.paulirish.com/)
+- :clock8: [Paul Irish](http://www.paulirish.com/)
 - [CSS wizardy by Harry Roberts](http://csswizardry.com/)
 - [PonyFoo by Nicolas Bevacqua](http://ponyfoo.com/)
 - :clock8: [Nicole Sullivan](http://www.stubbornella.org/content/)
 - [Jonathan Snook](http://snook.ca/)
-- [Nicolas Gallagher](http://nicolasgallagher.com/)
+- :clock8: [Nicolas Gallagher](http://nicolasgallagher.com/)
 - [John Resig](http://ejohn.org/category/blog/)
 - [ES6 and more by Axel Rauschmayer](http://www.2ality.com/)
 - [Steve Souders](http://www.stevesouders.com/blog/)
