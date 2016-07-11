@@ -104,6 +104,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Trello](http://tech.trello.com/)
 - [Viget](https://www.viget.com/articles/)
 - [Scott Logic](http://blog.scottlogic.com/index.html)
+- [Mozilla Hacks](https://hacks.mozilla.org/)
 
 
 ## Styleguides and whatnot
