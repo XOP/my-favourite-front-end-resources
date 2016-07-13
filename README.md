@@ -105,6 +105,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Viget](https://www.viget.com/articles/)
 - [Scott Logic](http://blog.scottlogic.com/index.html)
 - [Mozilla Hacks](https://hacks.mozilla.org/)
+- [Rainsoft](https://rainsoft.io/)
 
 
 ## Styleguides and whatnot
