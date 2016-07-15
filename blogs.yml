@@ -25,3 +25,51 @@
   url: 'http://ejohn.org/category/blog/'
   elem: '#body .post h3 a'
   limit: 1
+
+'Axel Rauschmayer':
+  url: 'http://www.2ality.com/'
+  elem: '.blog-posts .post h3.post-title a'
+
+'Steve Souders':
+  url: 'http://www.stevesouders.com/blog/'
+  elem: '#content .post h1 > a'
+  limit: 2
+
+'Ben Frain':
+  url: 'http://benfrain.com/blog/'
+  elem: '#main .in-Wrapper > h1 > a.in-Title'
+  limit: 4
+
+'Bruce Lawson':
+  url: 'http://www.brucelawson.co.uk/'
+  elem: '#content article header > h2 > a'
+  limit: 2
+
+'Addy Osmani':
+  url: 'http://addyosmani.com/blog/'
+  elem: '#post-list li a + a'
+  limit: 2
+
+# pagination required
+'Kyle Simpson':
+  url: 'http://blog.getify.com/'
+  elem: '#postcon .post > h2 > a'
+
+'Christian Heilmann':
+  url: 'https://www.christianheilmann.com/'
+  elem: '#pad .post article > h2 > a'
+  limit: 2
+
+'Wes Bos':
+  url: 'http://wesbos.com/'
+  elem: '.blogPost > a'
+
+'Estelle Weyl':
+  url: 'http://www.standardista.com/'
+  elem: '#main .post header h2 a'
+  limit: 2
+
+'Hugo Giraudel':
+  url: 'http://hugogiraudel.com/blog/'
+  elem: '.main .list__item .list__primary-content > a'
+  limit: 2
