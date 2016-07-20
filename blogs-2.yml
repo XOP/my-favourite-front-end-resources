@@ -1,0 +1,56 @@
+# ================================================================================
+# Blogs 2
+# ================================================================================
+
+'Nolan Lawson':
+  url: 'http://nolanlawson.com/'
+  elem: '#content .post h2 > a'
+  limit: 2
+
+'Brent Jackson':
+  url: 'http://jxnblk.com/writing/'
+  elem: 'header + div > ul > li h2 > a'
+  limit: 2
+
+'Hans Christian Rein':
+  url: 'https://drublic.de/blog'
+  elem: '.posts__post__header h2 > a'
+  limit: 2
+
+'Dudley Storey':
+  url: 'http://thenewcode.com/'
+  elem: 'main > article h1.entry-title > a'
+  limit: 2
+
+'Una Kravets':
+  url: 'http://una.im/'
+  elem: '.post-preview > a'
+  limit: 2
+
+'Cory House':
+  url: 'http://www.bitnative.com/'
+  elem: '.post > header > h1.entry-title > a'
+  limit: 2
+
+'Pam "thewebivore"':
+  url: 'http://thewebivore.com/'
+  elem: '.post > header > h1 > a'
+  limit: 2
+
+'Mathias Bynens':
+  url: 'https://mathiasbynens.be/'
+  elem: '#content article h1 > a'
+  limit: 2
+
+'Elijah Manor':
+  url: 'http://elijahmanor.com/'
+  elem: '.post-title > a'
+  limit: 2
+
+# TODO
+#- [Reginald Braithwaite](http://raganwald.com/)
+#- [Dean Hume](http://deanhume.com/Home/Index)
+#- [Dev Nacho](http://devnacho.com/)
+#- [Bram Stein](https://www.bramstein.com/writing/)
+#- [Cristiano Rastelli](http://www.didoo.net/)
+#- [Andrew H Farmer](http://andrewhfarmer.com/)

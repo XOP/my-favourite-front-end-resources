@@ -58,9 +58,9 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 
 ### Starlets
 
-- [Front-End notes by Vladimir Kuznetsov [RU]](http://noteskeeper.ru/)
+- :clock8: [Front-End notes by Vladimir Kuznetsov [RU]](http://noteskeeper.ru/)
 - [Nolan Lawson](http://nolanlawson.com/)
-- [Reactive apps](http://blog.reactandbethankful.com/)
+- :clock8: [Reactive apps](http://blog.reactandbethankful.com/)
 - [Brent Jackson](http://jxnblk.com/)
 - [Front-End Development and Architecture by Hans Christian Reinl](https://drublic.de/blog)
 - [The new code by Dudley Storey](http://thenewcode.com/)
