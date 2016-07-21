@@ -1,0 +1,53 @@
+# ================================================================================
+# Company dev (and whatnot) blogs
+# ================================================================================
+
+'Guardian':
+  url: 'https://www.theguardian.com/info/developer-blog'
+  elem: '.fc-item__container > a.js-headline-text',
+  limit: 2
+
+'Netflix':
+  url: 'http://techblog.netflix.com/'
+  elem: '.post-title > a',
+  limit: 2
+
+'Telerik':
+  url: 'http://www.telerik.com/blogs'
+  elem: '.BlogPost h2 > a',
+  limit: 2
+
+'Booking.com':
+  url: 'http://blog.booking.com/'
+  elem: '.recent_entries li > a',
+  limit: 2
+
+'Filament Group':
+  url: 'https://www.filamentgroup.com/lab/'
+  elem: '.postTitle h3 > a',
+  limit: 2
+
+# may require advanced link parsing
+'AirBnB':
+  url: 'http://nerds.airbnb.com/code/'
+  elem: '.post > a',
+  limit: 2
+
+'StrongLoop':
+  url: 'https://strongloop.com/strongblog/'
+  elem: '.post-title > a',
+  limit: 2
+
+'Soasta':
+  url: 'http://www.soasta.com/blog/'
+  elem: '.blog-entry-title > a',
+  limit: 2
+
+#TODO:
+#- [Edenspiekermann](http://dev.edenspiekermann.com/)
+#- [Bigcommerce](http://www.bigeng.io/)
+#- [Trello](http://tech.trello.com/)
+#- [Viget](https://www.viget.com/articles/)
+#- [Scott Logic](http://blog.scottlogic.com/index.html)
+#- [Mozilla Hacks](https://hacks.mozilla.org/)
+#- [Rainsoft](https://rainsoft.io/)
