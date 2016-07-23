@@ -12,10 +12,11 @@
   elem: '.post-title > a'
   limit: 2
 
-'Telerik':
-  url: 'http://www.telerik.com/blogs'
-  elem: '.BlogPost h2 > a'
-  limit: 2
+# site is being renovated
+#'Telerik':
+#  url: 'http://www.telerik.com/blogs'
+#  elem: '.BlogPost h2 > a'
+#  limit: 2
 
 'Booking.com':
   url: 'http://blog.booking.com/'
