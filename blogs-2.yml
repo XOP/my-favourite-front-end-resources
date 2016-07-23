@@ -49,17 +49,17 @@
 
 'Reginald Braithwaite':
   url: 'http://raganwald.com/'
-  elem: '.related li > a',
+  elem: '.related li > a'
   limit: 2
 
 'Dean Hume':
   url: 'http://deanhume.com/Home/Index'
-  elem: 'article header h2 > a',
+  elem: 'article header h2 > a'
   limit: 2
 
 'Dev Nacho':
   url: 'http://devnacho.com/'
-  elem: '#content article h1 > a',
+  elem: '#content article h1 > a'
   limit: 2
 
 # requires additional targeting
@@ -69,10 +69,10 @@
 
 'Cristiano Rastelli':
   url: 'http://www.didoo.net/'
-  elem: '#blog_archive li h3 > a',
+  elem: '#blog_archive li h3 > a'
   limit: 2
 
 'Andrew H Farmer':
   url: 'http://andrewhfarmer.com/'
-  elem: '.post-preview > a',
+  elem: '.post-preview > a'
   limit: 2
