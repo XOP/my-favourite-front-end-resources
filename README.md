@@ -79,6 +79,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 ### Other
 
 - [Kenan Yusuf](https://kyusuf.com/)
+- [Manuel](https://manu.ninja/)
 
 
 ## Twitter
