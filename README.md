@@ -75,6 +75,10 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Bram Stein](https://www.bramstein.com/writing/)
 - [Cristiano Rastelli](http://www.didoo.net/)
 - [Andrew H Farmer](http://andrewhfarmer.com/)
+ 
+### Other
+
+- [Kenan Yusuf](https://kyusuf.com/)
 
 
 ## Twitter
