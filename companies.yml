@@ -12,11 +12,10 @@
   elem: '.post-title > a'
   limit: 2
 
-# site is being renovated
-#'Telerik':
-#  url: 'http://www.telerik.com/blogs'
-#  elem: '.BlogPost h2 > a'
-#  limit: 2
+'Telerik':
+  url: 'http://www.telerik.com/blogs'
+  elem: '.BlogPost h2 > a'
+  limit: 2
 
 'Booking.com':
   url: 'http://blog.booking.com/'
@@ -44,11 +43,33 @@
   elem: '.blog-entry-title > a'
   limit: 2
 
-#TODO:
-#- [Edenspiekermann](http://dev.edenspiekermann.com/)
-#- [Bigcommerce](http://www.bigeng.io/)
-#- [Trello](http://tech.trello.com/)
-#- [Viget](https://www.viget.com/articles/)
-#- [Scott Logic](http://blog.scottlogic.com/index.html)
-#- [Mozilla Hacks](https://hacks.mozilla.org/)
-#- [Rainsoft](https://rainsoft.io/)
+'Edenspiekermann':
+  url: 'http://dev.edenspiekermann.com/'
+  elem: 'a.list__link'
+  limit: 2
+
+'Bigcommerce':
+  url: 'http://www.bigeng.io/'
+  elem: '.post h1 > a'
+  limit: 1
+
+'Trello':
+  url: 'http://tech.trello.com/'
+  elem: 'h2.postlist-item-title > a'
+  limit: 1
+
+# may require advanced link parsing
+'Viget':
+  url: 'https://www.viget.com/articles/'
+  elem: 'a.articles__title'
+  limit: 3
+
+'Scott Logic':
+  url: 'http://blog.scottlogic.com/index.html'
+  elem: '.summary header h3 a'
+  limit: 2
+
+'Mozilla Hacks':
+  url: 'https://hacks.mozilla.org/'
+  elem: 'h3.post__title > a'
+  limit: 2

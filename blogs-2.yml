@@ -76,3 +76,8 @@
   url: 'http://andrewhfarmer.com/'
   elem: '.post-preview > a'
   limit: 2
+
+'Rainsoft':
+  url: 'https://rainsoft.io/'
+  elem: 'h2.post-title > a'
+  limit: 2
