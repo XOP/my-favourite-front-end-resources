@@ -27,7 +27,7 @@
 
 'Sitepoint depot':
   url: 'https://www.sitepoint.com/'
-  elem: 'main article.article h1 > a'
+  elem: 'a.HomePanel'
   limit: 15
 
 'A List Apart':
