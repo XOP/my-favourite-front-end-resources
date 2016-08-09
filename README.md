@@ -76,11 +76,12 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Cristiano Rastelli](http://www.didoo.net/)
 - [Andrew H Farmer](http://andrewhfarmer.com/)
  
-### Other
+### Unsorted
 
 - [Kenan Yusuf](https://kyusuf.com/)
 - [Manuel](https://manu.ninja/)
 - [Dmitry Pavlutin](https://rainsoft.io/)
+- [James Sinclair](http://jrsinclair.com/)
 
 
 ## Twitter
