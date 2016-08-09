@@ -75,7 +75,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Bram Stein](https://www.bramstein.com/writing/)
 - [Cristiano Rastelli](http://www.didoo.net/)
 - [Andrew H Farmer](http://andrewhfarmer.com/)
- 
+
 ### Unsorted
 
 - [Kenan Yusuf](https://kyusuf.com/)
@@ -105,7 +105,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Filament Group](https://www.filamentgroup.com/lab/)
 - [AirBnB](http://nerds.airbnb.com/code/)
 - [StrongLoop](https://strongloop.com/strongblog/)
-- [Perfomance beacon by Soasta](http://www.soasta.com/blog/)
+- [Soasta](http://www.soasta.com/blog/)
 - [Edenspiekermann](http://dev.edenspiekermann.com/)
 - [Bigcommerce](http://www.bigeng.io/)
 - [Trello](http://tech.trello.com/)
@@ -125,18 +125,24 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 ## UX and Design
 
 - [UX matters](http://www.uxmatters.com/)
-- [Trine Falbe blog](http://www.trinefalbe.com/)
-- [90 percent](http://www.90percentofeverything.com/)
-- [Dark patterns](http://darkpatterns.org/)
 - [UI Engineering](http://www.uie.com/)
 - [Nielsen Norman Group](http://www.nngroup.com/)
 - [UX Magazine](http://uxmag.com/)
 - [UX Booth](http://www.uxbooth.com/)
-- [Yury Vetrov blog](http://www.jvetrau.com/)
 - [Baymard Institute](http://baymard.com/)
-- [A Good UI](http://goodui.org/)
 - [Usabilla blog](http://blog.usabilla.com/)
-- [Nick Kolenda blog](http://www.nickkolenda.com/)
+- [UXPin](https://www.uxpin.com/studio/blog/)
+
+### Authors
+- [Trine Falbe](http://www.trinefalbe.com/)
+- [Nick Kolenda](http://www.nickkolenda.com/)
+- [Yury Vetrov blog](http://www.jvetrau.com/)
+
+### Extras
+
+- [90 percent](http://www.90percentofeverything.com/)
+- [Dark patterns](http://darkpatterns.org/)
+- [A Good UI](http://goodui.org/)
 
 
 ------
