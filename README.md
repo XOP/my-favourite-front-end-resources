@@ -113,6 +113,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Scott Logic](http://blog.scottlogic.com/index.html)
 - [Mozilla Hacks](https://hacks.mozilla.org/)
 - [Cloud 4](https://cloudfour.com/thinks/)
+- [trivago](http://tech.trivago.com/)
 
 
 ## Styleguides and whatnot
