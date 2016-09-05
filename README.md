@@ -115,6 +115,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Mozilla Hacks](https://hacks.mozilla.org/)
 - [Cloud 4](https://cloudfour.com/thinks/)
 - [trivago](http://tech.trivago.com/)
+- [Nodesource](https://nodesource.com/blog/)
 
 
 ## Styleguides and whatnot
