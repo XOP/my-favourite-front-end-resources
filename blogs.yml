@@ -5,71 +5,101 @@
 'Paul Lewis':
   url: 'https://aerotwist.com/blog/'
   elem: '.content .posts li a'
+  time: '.left'
   limit: 2
 
 'Harry Roberts':
   url: 'http://csswizardry.com/'
-  elem: '.list-ui.post__list h3.post__title > a'
-  limit: 2
+  elem: '.list-ui.post__list .list-ui__item'
+  link: '.post__title a'
+  time: '.post__date'
+  limit: 1
 
 'Nicolas Bevacqua':
   url: 'http://ponyfoo.com/'
-  elem: '.aa-articles h2.aa-title > a'
+  elem: '.aa-article'
+  link: 'h2.aa-title > a'
+  author: '.aa-trivia-item:last-child'
+  time: '.aa-trivia-item time'
+  image: '.aa-cover-image'
 
 'Jonathan Snook':
   url: 'http://snook.ca/'
-  elem: '#main .article h2 > a'
+  elem: '#main .article'
+  link: 'h2 a'
+  time: '.dt'
   limit: 2
 
 'John Resig':
   url: 'http://ejohn.org/category/blog/'
-  elem: '#body .post h3 a'
+  elem: '#body .post'
+  link: 'h3 a'
   limit: 1
 
 'Axel Rauschmayer':
   url: 'http://www.2ality.com/'
-  elem: '.blog-posts .post h3.post-title a'
+  elem: '.blog-posts .date-outer'
+  link: 'h3.post-title a'
+  time: 'h2.date-header'
 
 'Steve Souders':
   url: 'http://www.stevesouders.com/blog/'
-  elem: '#content .post h1 > a'
+  elem: '#content .post'
+  link: 'h1 > a'
   limit: 2
 
 'Ben Frain':
   url: 'http://benfrain.com/blog/'
-  elem: '#main .in-Wrapper > h1 > a.in-Title'
-  limit: 4
+  elem: '#main .in-Wrapper'
+  link: 'h1 > a.in-Title'
+  time: '.in-Meta'
+  limit: 2
 
 'Bruce Lawson':
   url: 'http://www.brucelawson.co.uk/'
-  elem: '#content article header > h2 > a'
+  elem: '#content article'
+  link: 'header > h2 > a'
+  time: 'header time'
   limit: 2
 
 'Addy Osmani':
   url: 'http://addyosmani.com/blog/'
-  elem: '#post-list li a + a'
+  elem: '#post-list li'
+  link: 'a:last-child'
+  time: '.dates'
   limit: 2
 
 # pagination required
-'Kyle Simpson':
-  url: 'http://blog.getify.com/'
-  elem: '#postcon .post > h2 > a'
+#'Kyle Simpson':
+#  url: 'http://blog.getify.com/'
+#  elem: '#postcon .post > h2 > a'
+#  link: ''
+#  author: ''
+#  time: ''
+#  image: ''
 
 'Christian Heilmann':
   url: 'https://www.christianheilmann.com/'
-  elem: '#pad .post article > h2 > a'
+  elem: '#content .post article'
+  link: 'h2 a:last-child'
+  time: 'h2 + small'
   limit: 2
 
 'Wes Bos':
   url: 'http://wesbos.com/'
   elem: '.blogPost > a'
+  image: 'img'
 
 'Estelle Weyl':
   url: 'http://www.standardista.com/'
-  elem: '#main .post header h2 a'
+  elem: '#main .post'
+  link: 'header h2 a'
+  time: 'time.entry-date'
   limit: 2
 
 'Hugo Giraudel':
   url: 'http://hugogiraudel.com/blog/'
-  elem: '.main .list__item .list__primary-content > a'
+  elem: '.main .list__item'
+  link: '.list__primary-content'
+  time: '.list__secondary-content'
   limit: 2
