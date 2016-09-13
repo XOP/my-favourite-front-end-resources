@@ -83,6 +83,8 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Dmitry Pavlutin](https://rainsoft.io/)
 - [James Sinclair](http://jrsinclair.com/)
 - [Jeremy Wagner](https://jeremywagner.me/)
+- [Philip Walton](https://philipwalton.com/articles/)
+
 
 
 ## Twitter
