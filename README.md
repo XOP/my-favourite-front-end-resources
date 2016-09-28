@@ -118,6 +118,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [Cloud 4](https://cloudfour.com/thinks/)
 - [trivago](http://tech.trivago.com/)
 - [Nodesource](https://nodesource.com/blog/)
+- [Avocode](https://blog.avocode.com/)
 
 
 ## Styleguides and whatnot
