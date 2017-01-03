@@ -119,6 +119,7 @@ Collection of chosen blogs, articles, tutorials on design and development topics
 - [trivago](http://tech.trivago.com/)
 - [Nodesource](https://nodesource.com/blog/)
 - [Avocode](https://blog.avocode.com/)
+- [Eventbrite](https://www.eventbrite.com/engineering/category/front-end/)
 
 
 ## Styleguides and whatnot
